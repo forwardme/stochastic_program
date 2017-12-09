@@ -1,6 +1,6 @@
+import random, pylab
 def flipPlot(minExp,maxExp):
-    "minExp and maxExp is positive integers, and minExp<maxExp
-    to plot 2**minExp to 2**maxExp times flips results."
+    "minExp and maxExp is positive integers, and minExp<maxExp to plot 2**minExp to 2**maxExp times flips results."
     ratios = []
     diffs = []
     xAxis = []
